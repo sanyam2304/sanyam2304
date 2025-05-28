@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanyam2304
 - 👀 I’m currently making random websites
-- 🌱 I’m currently learning full stack
+- 🌱 I’m a full stack developer
 - 📫 You can reach me [Here](sanyam.prateek1@gmail.com)
 
 <!---
